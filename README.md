@@ -1,4 +1,7 @@
 # AR-CharacterControl
+
+I developed a simple AR game app in the VR/AR Specialist program at Champlain College, using Unity the Third Person Controller (RPG type) plugin, Character Rigging , And Google AR Core, and Blender for rigging animations. 
+The app allows a character to move and fight against monsters.
  
 ![KakaoTalk_Image_2024-11-07-20-41-33_001](https://github.com/user-attachments/assets/43781d5b-2ac1-48ec-b342-7cf2780aaa16)
 ![KakaoTalk_Image_2024-11-07-20-41-37_003](https://github.com/user-attachments/assets/1386b4ce-c18e-43ad-a4a3-dead42d097a3)
